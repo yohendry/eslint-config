@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "personal eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohendry/eslint-config.git"
+  },
+  "keywords": [
+    "lint",
+    "es-lint",
+    "conf"
+  ],
+  "author": "yohendry hurtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohendry/eslint-config/issues"
+  },
+  "homepage": "https://github.com/yohendry/eslint-config#readme"
+}
