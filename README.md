@@ -1,5 +1,4 @@
-**ESLint Configuration**
-=====================
+# **ESLint Configuration**
 
 This is my personal ESLint configuration, which I use to keep my JavaScript code tidy and consistent.
 
@@ -12,9 +11,9 @@ projects.
 
 This configuration includes:
 
-* A set of rules for JavaScript syntax errors
-* A set of best practice rules to keep your code organized and consistent
-* Some custom rules I've added based on my personal preferences
+- A set of rules for JavaScript syntax errors
+- A set of best practice rules to keep your code organized and consistent
+- Some custom rules I've added based on my personal preferences
 
 **How to Use This Configuration**
 
