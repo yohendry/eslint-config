@@ -1,6 +1,4 @@
-import { Linter } from "eslint"
-
-const rules: Linter.RulesRecord = {
+const rules = {
   semi: ["error", "never"],
   "prefer-const": "error",
   "array-callback-return": "error",
