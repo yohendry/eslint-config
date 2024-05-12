@@ -1,0 +1,1 @@
+configuracion personal de eslint
